@@ -1,3 +1,6 @@
 .DS_Store
 # failed download (not a real PDF)
 ICAIC Textbooks/Probabilistic Machine Learning - Advanced Topics*
+
+# IOAI practice tasks (cloned separately, too large to push)
+Practice Tasks/
